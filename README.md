@@ -1,6 +1,6 @@
 # Kaggle Competiton - GoDaddy MicroBusiness Density Forecasting
 
-Welcome to the GitHub repository for the GoDaddy MicroBusiness Density Forecasting competition on Kaggle. This repository contains the code and analysis used in our solution for the competition.
+Welcome to the GitHub repository for the GoDaddy MicroBusiness Density Forecasting competition on Kaggle, hosted throughout February to March 2023. This repository contains the code and analysis used in our solution for the competition.
 
 The GoDaddy MicroBusiness Density Forecasting competition is a time-series prediction task in which participants are asked to forecast the number of microbusinesses in a given region. The dataset provided contains historical data on microbusiness density in various regions, as well as demographic and economic data for each region. The goal of the competition is to create a model that can accurately predict future microbusiness density based on the provided data.
 

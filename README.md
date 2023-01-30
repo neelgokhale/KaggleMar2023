@@ -8,11 +8,13 @@ The GoDaddy MicroBusiness Density Forecasting competition is a time-series predi
 
 * [**`code/`**](/code)
     * [`constants.py`](/code/constants.py): contains all constant values used across project
+
 * [**`notebooks/`**](/notebooks/)
     * [`0_eda.ipynb`](/notebooks/0_eda.ipynb): contains the code for exploring and visualizing the dataset, as well as cleaning and preprocessing the data.
     * [`1_feature_selection.ipynb`](/notebooks/0_eda.ipynb): contains the code for selecting the most relevant features for the prediction model.
     * [`2_pca_analysis.ipynb`](/notebooks/0_eda.ipynb): contains the code for performing PCA analysis on the dataset.
     * [`3_final_model.ipynb`](/notebooks/3_final_model.ipynb): contains the code for training and evaluating the final prediction model.
+    
 * [**`data/`**](/data)
     * [`census_starter.csv`](/data/census_starter.csv): stores relevant census data for different counties
     * [`md-counties.csv`](/data/md-counties.csv): microbusiness density values for all counties from 2019-2022

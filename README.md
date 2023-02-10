@@ -23,7 +23,7 @@ The GoDaddy MicroBusiness Density Forecasting competition is a time-series predi
 
 ## Installation & Usage
 
-Data sets used for this projects were sourced from the Kaggle competiton and the GoDaddy data store. All data sets are publicly available and free to download.
+Data sets used for this projects were sourced from the Kaggle competiton and the GoDaddy data store. All data sets are publicly available and free to download. Some data used for this project is subject to minor transformation to make it fit-for-purpose.
 1. [**Kaggle datasets**](https://www.kaggle.com/competitions/godaddy-microbusiness-density-forecasting/data): for census, train and test data
 2. [**GoDaddy datasets**](https://www.godaddy.com/ventureforward/microbusiness-datahub/): for yearly microdensity data by counties
 
